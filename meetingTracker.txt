@@ -2,3 +2,4 @@ First Meeting: January 26th
 - Began the meeting on the story task since we already did the slack intros
 - Dictionary.txt translation in google translate and looked at Joseph's example in story to get a feel for what to do
 - Wrote our story and sent it in the Slack
+Meeting Length: 1hr
