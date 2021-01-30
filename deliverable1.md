@@ -2,11 +2,11 @@
 
 ## 1: Basic Information (needed before you start with your Sprint -- Sprint Planning)
 
-**Topic you chose:** topic name
+**Topic you chose:** Gym Scheduling
 
 **Sprint Number:** 0
 
-**Scrum Master**: Ryan Chacoon  
+**Scrum Master**: Ryan Chacon  
 
 **Git Master**: Tom Hansen
 
@@ -140,14 +140,14 @@ Answer as a team!
     - info
   
 ## 4: Checklist for you to see if you are done
-- [ ] Filled out the complete form from above, all fields are filled and written in full sentences
-- [ ] Read the kickoff again to make sure you have all the details
+- [x] Filled out the complete form from above, all fields are filled and written in full sentences
+- [x] Read the kickoff again to make sure you have all the details
 - [ ] User Stories that were not completed, were left in the Sprint and a copy created
-- [ ] Your Quality Policies are accurate and up to date
+- [x] Your Quality Policies are accurate and up to date
 - [ ] **Individual** Survey was submitted **individually** (create checkboxes below -- see Canvas to get link)
   - [ ] Team member 1
   - [ ] Team member 2
-- [ ] The original of this file was copied for the next Sprint (needed for all but last Sprint where you do not need to copy it anymore)
+- [x] The original of this file was copied for the next Sprint (needed for all but last Sprint where you do not need to copy it anymore)
   - [ ] Basic information (part 1) for next Sprint was included (meaning Spring Planning is complete)
   - [ ] All User Stories have acceptance tests
   - [ ] User Stories in your new Sprint Backlog have initial tasks which are in New
